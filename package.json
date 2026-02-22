@@ -1,0 +1,15 @@
+{
+  "name": "@chahuadev/framework",
+  "version": "1.0.10", 
+  "description": "Chahuadev Framework",
+  "main": "index.js",
+  "bin": {
+    "chahuadev-framework": "index.js"
+  },
+  "optionalDependencies": {
+    "@chahuadev/framework-win32-x64": "^1.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
