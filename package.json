@@ -1,6 +1,6 @@
 {
   "name": "@chahuadev/framework",
-  "version": "1.0.10", 
+  "version": "1.0.10",
   "description": "Chahuadev Framework",
   "main": "index.js",
   "bin": {
@@ -11,5 +11,8 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "dependencies": {
+    "@chahuadev/framework": "^1.0.10"
   }
 }
